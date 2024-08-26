@@ -22,23 +22,20 @@ Refactoring Details
 
 5. YAGNI (You Ain’t Gonna Need It)
 -Focused on core functionalities without overcomplicating the design. Added only necessary features for managing students.
-Running the System
 
-Prerequisites
--Python 3.x installed on your machine.
+Running the System Prerequisites
+-Install Python on your machine (pc computer).
 
 Steps to Run
-Clone the Repository
-
+-Clone the Repository
 git clone https://github.com/mwewacs/student-management-system.git
 cd student-management-system
+
 Run the System
-
 Execute the following command to start the system:
+-python student_management_system.py
 
-python student_management_system.py
 Interacting with the System
-
 You will be presented with a menu to:
 
 Add a student
